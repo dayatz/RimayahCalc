@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+  <item
+    android:id="@+id/nav_shaft"
+    android:icon="@drawable/shaft"
+    android:title="@string/title_shaft" />
+
+  <item
+    android:id="@+id/nav_nabl"
+    android:icon="@drawable/nabl"
+    android:title="@string/title_nabl" />
+
+  <item
+    android:id="@+id/nav_foc"
+    android:icon="@drawable/foc"
+    android:title="@string/title_foc" />
+
+</menu>
